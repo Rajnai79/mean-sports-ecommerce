@@ -33,3 +33,6 @@ ng serve
 ```
 Then open your browser and go to:
 http://localhost:4200
+
+**Note**:The image  i used in this project is for educational purposes only. All rights to the content, including the video and recipe, belong to the original creator.
+
